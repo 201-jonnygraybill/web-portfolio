@@ -11,3 +11,8 @@
   width: 100%;
   margin-left: none;
 }
+
+#topbar {
+  background-color: gray;
+  height: 50px;
+}
